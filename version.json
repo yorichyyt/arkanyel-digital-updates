@@ -1,0 +1,20 @@
+{
+    "ok":  true,
+    "appName":  "ArkAnyel Digital",
+    "channel":  "github_cloud_https",
+    "tlsProtocol":  "TLS 1.3",
+    "version":  "0.2.4.0-alpha",
+    "displayVersion":  "ALPHA 0.2.4.0",
+    "versionCode":  23,
+    "apkFile":  "ArkAnyel-Digital-Alpha-0.2.4.0.apk",
+    "apkExists":  true,
+    "apkSizeBytes":  3879684,
+    "apkSha256":  "ff3422167efee6662fde8dc296395bf4cf3f4e9d6e8fd07402da9b42e948e27a",
+    "apkDownloadUrl":  "https://github.com/yorichyyt/arkanyel-digital-updates/releases/download/v0.2.4.0-alpha/ArkAnyel-Digital-Alpha-0.2.4.0.apk",
+    "publishedAt":  "2026-11-07",
+    "notes":  [
+                  "Nuevo filtro de Clientes Eliminados con autolimpieza automática a los 30 días y opción de vaciado/borrado manual anticipado.",
+                  "Notificaciones interactivas: al tocar cualquier aviso te lleva directo al cliente, cuenta madre, papelera o sección de balance correspondiente.",
+                  "Aviso automático en las notificaciones del celular y en la campanita de la app cuando hay una nueva actualización disponible."
+              ]
+}
