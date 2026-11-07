@@ -1,0 +1,20 @@
+{
+    "ok":  true,
+    "appName":  "ArkAnyel Digital",
+    "channel":  "github_cloud_https",
+    "tlsProtocol":  "TLS 1.3",
+    "version":  "0.2.3.1-alpha",
+    "displayVersion":  "ALPHA 0.2.3.1",
+    "versionCode":  20,
+    "apkFile":  "ArkAnyel-Digital-Alpha-0.2.3.1.apk",
+    "apkExists":  true,
+    "apkSizeBytes":  3869645,
+    "apkSha256":  "982a5bac60d1ad45ca47ec6a3316cc1494a441d0744a450ee5a3b8169478795b",
+    "apkDownloadUrl":  "https://github.com/yorichyyt/arkanyel-digital-updates/releases/download/v0.2.3.1-alpha/ArkAnyel-Digital-Alpha-0.2.3.1.apk",
+    "publishedAt":  "2026-11-06",
+    "notes":  [
+                  "Fechas de vencimiento y corte bloqueadas contra edición manual al crear o editar Usuarios y Cuentas Madre.",
+                  "Cálculo automático estricto a 30 días (1 mes) tanto en registros nuevos como en renovaciones.",
+                  "Sincronización directa desde GitHub Cloud (HTTPS) disponible desde datos móviles o cualquier red Wi-Fi."
+              ]
+}
