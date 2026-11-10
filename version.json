@@ -1,0 +1,21 @@
+{
+    "ok":  true,
+    "appName":  "ArkAnyel Digital",
+    "channel":  "github_cloud_https",
+    "tlsProtocol":  "TLS 1.3",
+    "version":  "0.3.1.1-alpha",
+    "displayVersion":  "ALPHA 0.3.1.1",
+    "versionCode":  26,
+    "apkFile":  "ArkAnyel-Digital-Alpha-0.3.1.1.apk",
+    "apkExists":  true,
+    "apkSizeBytes":  4445693,
+    "apkSha256":  "3ef89933c6287539cd756f8f888a0141112e789439a5995ad5b44358bbb8ae9a",
+    "apkDownloadUrl":  "https://github.com/yorichyyt/arkanyel-digital-updates/releases/download/v0.3.1.1-alpha/ArkAnyel-Digital-Alpha-0.3.1.1.apk",
+    "publishedAt":  "2026-11-10",
+    "notes":  [
+                  "Animación de bienvenida y preparación del entorno para nuevos usuarios tras la intro inicial de ArkAnyel Digital.",
+                  "Flujo guiado obligatorio en primera instalación: configuración de PIN personal de 6 dígitos antes de entrar.",
+                  "Acople automático del acceso por Huella Digital con confirmación visual de protección de datos.",
+                  "Pantalla de ingreso siempre protegida: acceso rápido con lector de Huella Digital o PIN de 6 dígitos con auto-desbloqueo."
+              ]
+}
