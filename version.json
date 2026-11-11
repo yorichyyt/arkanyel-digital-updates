@@ -1,0 +1,20 @@
+{
+    "ok":  true,
+    "appName":  "ArkAnyel Digital",
+    "channel":  "github_cloud_https",
+    "tlsProtocol":  "TLS 1.3",
+    "version":  "0.3.1.4-alpha",
+    "displayVersion":  "ALPHA 0.3.1.4",
+    "versionCode":  28,
+    "apkFile":  "ArkAnyel-Digital-Alpha-0.3.1.4.apk",
+    "apkExists":  true,
+    "apkSizeBytes":  4461316,
+    "apkSha256":  "fd76a41e32532805e55cab508dda1d9ad279dc6822832bdf3fae938116032752",
+    "apkDownloadUrl":  "https://github.com/yorichyyt/arkanyel-digital-updates/releases/download/v0.3.1.4-alpha/ArkAnyel-Digital-Alpha-0.3.1.4.apk",
+    "publishedAt":  "2026-11-11",
+    "notes":  [
+                  "Fecha y hora personalizables manualmente al registrar o editar usuarios y cuentas madres, y también al renovar cuentas de usuarios y cuentas madres.",
+                  "Nueva opción FIADO al registrar usuario (plazo máximo de 5 días): tarjeta destacada en Azul Fiado con recordatorios diarios en la app y en notificaciones del celular hasta pagar, pasando a Verde al registrar el pago.",
+                  "Corregida la barrita blanca transparente lateral en la pantalla de inicio al abrir la aplicación."
+              ]
+}
