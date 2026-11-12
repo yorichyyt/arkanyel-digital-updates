@@ -1,0 +1,20 @@
+{
+    "ok":  true,
+    "appName":  "ArkAnyel Digital",
+    "channel":  "github_cloud_https",
+    "tlsProtocol":  "TLS 1.3",
+    "version":  "0.3.1.8-alpha",
+    "displayVersion":  "ALPHA 0.3.1.8",
+    "versionCode":  32,
+    "apkFile":  "ArkAnyel-Digital-Alpha-0.3.1.8.apk",
+    "apkExists":  true,
+    "apkSizeBytes":  4446566,
+    "apkSha256":  "4b3a959b9a68885e6e18f5e6f23526e564ae6aa314f7125a483f4cfb90bd55a8",
+    "apkDownloadUrl":  "https://github.com/yorichyyt/arkanyel-digital-updates/releases/download/v0.3.1.8-alpha/ArkAnyel-Digital-Alpha-0.3.1.8.apk",
+    "publishedAt":  "2026-11-11",
+    "notes":  [
+                  "Restauración exacta del respaldo original de la versión 0.3.1.1 (commit 9a33418), eliminando por completo los cambios de DayNight / WindowInsets de la 0.3.1.2.",
+                  "Empacado con versionCode 32 (ALPHA 0.3.1.8) para actualizar directo por OTA sin desinstalar ni perder datos.",
+                  "Incluye toda la estabilidad original de 0.3.1.1: flujo de entrada, PIN de 6 dígitos, huella digital y barra de progreso en actualizaciones."
+              ]
+}
