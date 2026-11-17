@@ -1,0 +1,20 @@
+{
+    "ok":  true,
+    "appName":  "ArkAnyel Digital",
+    "channel":  "github_cloud_https",
+    "tlsProtocol":  "TLS 1.3",
+    "version":  "0.3.1.9-alpha",
+    "displayVersion":  "ALPHA 0.3.1.9",
+    "versionCode":  33,
+    "apkFile":  "ArkAnyel-Digital-Alpha-0.3.1.9.apk",
+    "apkExists":  true,
+    "apkSizeBytes":  4446805,
+    "apkSha256":  "d77f93989f7f1cef9b9eb069632f12482a07ff8b85785bb38d80937895b73d92",
+    "apkDownloadUrl":  "https://github.com/yorichyyt/arkanyel-digital-updates/releases/download/v0.3.1.9-alpha/ArkAnyel-Digital-Alpha-0.3.1.9.apk",
+    "publishedAt":  "2026-11-16",
+    "notes":  [
+                  "Barra inferior de navegación del sistema adaptada en color gris grafito (#1e2430) para una experiencia visual limpia y elegante sin destellos blancos.",
+                  "Cero conflictos de renderizado: integración nativa ligera que preserva la total fluidez al salir o cambiar de apps sin recuadros ni parpadeos.",
+                  "Base ultra-estable y protegida: acceso rápido con huella digital o PIN de 6 dígitos y comprobación de actualizaciones OTA."
+              ]
+}
