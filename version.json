@@ -1,0 +1,19 @@
+{
+    "ok":  true,
+    "appName":  "ArkAnyel Digital",
+    "channel":  "github_cloud_https",
+    "tlsProtocol":  "TLS 1.3",
+    "version":  "0.5.2.4-alpha",
+    "displayVersion":  "ALPHA 0.5.2.4",
+    "versionCode":  45,
+    "apkFile":  "ArkAnyel-Digital-Alpha-0.5.2.4.apk",
+    "apkExists":  true,
+    "apkSizeBytes":  5047495,
+    "apkSha256":  "fb1d686eae7c77a396072ca0510340d7cf899da70cabe712e69b58b1aab36cf4",
+    "apkDownloadUrl":  "https://github.com/yorichyyt/arkanyel-digital-updates/releases/download/v0.5.2.4-alpha/ArkAnyel-Digital-Alpha-0.5.2.4.apk",
+    "publishedAt":  "2026-11-17",
+    "notes":  [
+                  "Corrección de velocidad y selector directo de WhatsApp: se elimina el modo Automático que causaba demora y quedan solo dos opciones directas y rápidas en ⚙️ Ajustes (WhatsApp Business 💼 o WhatsApp Normal 💬).",
+                  "Lanzamiento nativo instantáneo al pulsar Enviar por WhatsApp sin bloqueo de consultas previas ni re-render duplicado, más buscador optimizado en Clientes."
+              ]
+}
